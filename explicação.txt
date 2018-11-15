@@ -1,0 +1,3 @@
+Utilizamos o layout orgânico com agrupamento baseado em clusterização natural devido a facilidade de localizar os grupos.
+
+As ligações entre vértices correspondem as cenas contracenadas com aqueles vértices do grupo. Quanto mais cenas eles fizerem juntos, mais próximos estarão no cluster.
